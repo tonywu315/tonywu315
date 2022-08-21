@@ -1,6 +1,9 @@
 ### Hi there 😄
 
-I am a freshman Computer Science and Mathematics Major in the Advanced Cybersecurity Experience for Students honors program at the University of Maryland. In my free time, I enjoy coding and attending competitions with friends!
+I'm a software engineer studying Computer Science and Mathematics at the University of Maryland!
+
+- 🔭 I’m currently working on a [chess AI](https://github.com/tonywu315/chess).
+- 🌱 I’m currently learning about machine learning, specifically NLP.
 
 <!--
 **tonywu315/tonywu315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
