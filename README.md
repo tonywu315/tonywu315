@@ -1,8 +1,8 @@
 # Hello! 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tonywu315&color=1F6FE9)
+![](https://hit.yhype.me/github/profile?user_id=44908682)
 
-<p></p>
 I am a software engineer studying Computer Science and Mathematics at the University of Maryland!
 
 - 🔭 I’m currently working on a [chess AI](https://github.com/tonywu315/chess)
